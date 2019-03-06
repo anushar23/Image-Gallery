@@ -1,0 +1,79 @@
+body{
+
+padding-top: 120px;
+
+
+}
+/*to remove weird white spaces in between the images which are of different height and width use flex class*/
+/*.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+*/
+.navbar-inverse{
+	background: #2c3e50;
+	color:white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    }
+
+    .navbar-inverse .navbar-nav>li>a{
+    	color: white;
+    }
+
+    .jumbotron {
+      color: #2c3e50;
+      background: #ecf0f1;
+
+    }
+
+    .image1 {
+  background-image: url(https://source.unsplash.com/jZxairpkhho);
+}
+
+.image2 {
+  background-image: url(https://source.unsplash.com/R-lXrEb8R2Q);
+}
+
+.image3{
+  background-image: url(https://source.unsplash.com/JeiqC2-y-1Q);
+
+}
+
+.image4{
+background-image: url(https://source.unsplash.com/Cm9mhlhHBXA);
+
+}
+
+.image5{
+background-image: url(https://source.unsplash.com/v6uFg-OLrCc);
+
+}
+
+.image6{
+background-image: url(https://source.unsplash.com/agS3wwE1xTM);
+
+}
+
+.image7{
+background-image: url(https://source.unsplash.com/NKV6xXErcyY);
+
+}
+
+.image8{
+background-image: url(https://source.unsplash.com/HL6gzlxnMjM);
+}
+
+.image9{
+background-image: url(https://source.unsplash.com/odxB5oIG_iA);
+
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
